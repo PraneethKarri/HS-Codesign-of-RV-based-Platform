@@ -1,6 +1,6 @@
 `timescale 1ns / 1ps
 
-module Testbench();
+module tb_axi_ram();
 
     // Parameters
     parameter ADDR_WIDTH = 16;
