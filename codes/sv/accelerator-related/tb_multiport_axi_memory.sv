@@ -1,6 +1,6 @@
 `timescale 1ns / 1ps
 
-module tb_multir_axi_memory();
+module tb_multiport_axi_memory();
 
     // Parameters
     parameter Num_Subbanks = 32;
