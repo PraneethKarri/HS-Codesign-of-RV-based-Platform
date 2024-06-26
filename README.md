@@ -11,4 +11,4 @@ This project involves hardware-software co-design of a RISC-V based platform aim
 - **Cheshire**: An open-source platform built around CVA6 cores by the PULP organization.
 
 ## Contents
-This repository contains my contributions to the project.
+This repository contains my contributions to this project.
