@@ -1,6 +1,6 @@
 `timescale 1ns / 1ps
 
-module axi_mem_tb();
+module tb_axi_memory();
 
     // Parameters
     parameter ADDR_WIDTH = 5 ;
